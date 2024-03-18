@@ -2,8 +2,12 @@
 
 **`Jr.Developer (Full-Stack/Back-End)`**
 
-Olá, mundo! Sou apaixonado por tecnologia e desenvolvimento. Imerso no universo do código, domino e utilizo diversas linguagens de programação. Gosto de procurar projetos e ideias no GitHub para colaborar e aprender cada vez mais. Acredito que cada desafio é uma oportunidade de criar algo novo, resolver problemas complexos e facilitar o dia a dia das pessoas. Sinta-se à vontade para ver minhas atividades e repositórios.<br>
-Contato: *jota.amaralmiranda@gmail.com*
+Olá, mundo! Sou apaixonado por tecnologia e desenvolvimento. Imerso no universo do código, domino e utilizo diversas linguagens de programação. Gosto de procurar projetos e ideias no GitHub para colaborar e aprender cada vez mais. Acredito que cada desafio é uma oportunidade de criar algo novo, resolver problemas complexos e facilitar o dia a dia das pessoas. Sinta-se à vontade para ver minhas atividades e repositórios. Contato: *jota.amaralmiranda@gmail.com*.<br>
+##
+
+ [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](jota.amaralmiranda@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotagamaral)
+
 
 ### 🧰 Linguagens e Ferramentas 
 

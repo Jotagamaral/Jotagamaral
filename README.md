@@ -1,5 +1,8 @@
-### Hi there 👋
+# João Gabriel 👋
 
+**`Jr.Developer (Full-Stack/Back-End)`**
+
+Olá, mundo! Sou apaixonado por tecnologia e desenvolvimento. Imerso no universo do código, domino e utilizo diversas linguagens de programação. Gosto de procurar projetos e ideias no GitHub para colaborar e aprender cada vez mais. Acredito que projeto é uma oportunidade de criar algo novo, resolver problemas complexos e facilitar o dia a dia das pessoas. Sint-se à vontade para ver minhas atividades e repositórios. Contato: *jota.amaralmiranda@gmail.com*
 <!--
 **Jotagamaral/Jotagamaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=19CCFF&background=FF0C0C00&random=false&width=435&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%8B;Sou%2C+Jo%C3%A3o+Gabriel+%F0%9F%98%84)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5500&pause=500&random=false&width=435&lines=Ol%C3%A1%2C+Mundo!+%F0%9F%91%8B;Sou%2C+Jo%C3%A3o+Gabriel+%F0%9F%98%84)](https://git.io/typing-svg)
 **`Jr.Developer (Full-Stack/Back-End)`**
 
 Olá, mundo! Sou apaixonado por tecnologia e desenvolvimento. Imerso no universo do código, domino e utilizo diversas linguagens de programação. Gosto de procurar projetos e ideias no GitHub para colaborar e aprender cada vez mais. Acredito que cada desafio é uma oportunidade de criar algo novo, resolver problemas complexos e facilitar o dia a dia das pessoas. Sinta-se à vontade para ver minhas atividades e repositórios. Contato: *jota.amaralmiranda@gmail.com*.<br>

@@ -27,7 +27,7 @@ Olá, mundo! Sou apaixonado por tecnologia e desenvolvimento. Imerso no universo
 
 ### ⚡ Stats
 
-![Jotagamaral's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotagamaral&show_icons=true&theme=transparent&custom_title=Activities&include_all_commits=true)
+![Jotagamaral's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotagamaral&show_icons=true&theme=transparent&custom_title=Activities)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotagamaral&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
  
